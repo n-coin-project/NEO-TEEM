@@ -95,22 +95,6 @@ Establishes a direct continuity between atomic physics and cosmology.
 
 ---
 
-## 🗂 Archived Documents (Historical)
-
-These remain for historical reference but are superseded by the TEEM 3.0/2.0 Series and no longer represent the latest formulation:
-
-- *TEEM 2.0.pdf*
-- *TEEM_CMB.pdf*
-- *TEEM_DM.pdf*
-- *TEEM_BH.pdf*
-- *TEEM_FLT.pdf*
-- *TEEM_Main_Paper.pdf*
-- *TEEM_Supplementary_Notes.pdf*
-
-*(Note: These files have been removed from the main `/doc/` directory to prevent confusion.)*
-
----
-
 ## 🤝 Contributing & Discussion
 
 We welcome open discussion, rigorous debate, and verification.
