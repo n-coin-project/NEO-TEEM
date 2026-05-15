@@ -1,4 +1,4 @@
-# 🌌 Triple Energy Equivalence Model (TEEM)
+# 🌌 Triple Energy Exchange Model (TEEM)
 
 **A Unified Energetic Framework for Cosmology, Gravity, Observation, and Light**
 
@@ -10,23 +10,23 @@
 ## 📖 About This Repository
 
 This repository contains the complete **TEEM Series**, a unified physical framework based on the  
-**Tension–Energy Exchange Model (TEEM)**.
+**Triple Energy Exchange Model (TEEM)**.
 
 TEEM replaces the fragmented structure of modern physics (forces, fields, dark matter, dark energy,  
 quantum measurement axioms) with a single energetic principle:
 
-> **All physical phenomena arise from the exchange of energy among three modes:**  
-> **vibrational (v), condensed (m), and spatial tension (R).**
+> **All physical phenomena arise from the exchange of energy among three fundamental modes:** > **vibrational (v), condensed (m), and spatial tension (R).**
 
-This repository includes:
+This repository has been updated to the **TEEM 3.0 / 2.0 Series**, including:
 
-- **TEEM 2.0** — cosmology  
-- **TEEM‑CMB** — early‑universe structure  
-- **TEEM‑DM** — galactic dynamics  
-- **TEEM‑BH** — black‑hole physics  
-- **TEEM‑FLT** — observation, light, and the structure of time
+- **TEEM 3.0** — Unified Energy-Based Physics of the Universe  
+- **TEEM Cosmic Tension Landscape** — Joint Analysis of SN Ia, BAO, and the Cosmic Tension Field  
+- **TEEM-CMB 2.0** — Tension-Field Interpretation of CMB Anisotropies  
+- **TEEM-DM 2.0** — Energetic Galactic Dynamics  
+- **TEEM-BH 2.0** — Energetic Black Hole Physics  
+- **TEEM-FLT 2.0** — Foundations of Everyday Physics  
 
-Together, these five papers form a complete, self‑consistent physical theory.
+Together, these six papers form a complete, self-consistent physical theory that completely removes the need for dark components.
 
 ---
 
@@ -34,13 +34,9 @@ Together, these five papers form a complete, self‑consistent physical theory.
 
 At the heart of TEEM lies a single linear energy relation:
 
-
-
 $$
 E = \alpha v + \beta m + \gamma R
 $$
-
-
 
 Where:
 
@@ -55,74 +51,63 @@ This equation replaces:
 - geometric curvature  
 - quantum measurement axioms  
 
-with a single energetic mechanism.
+with a single energetic mechanism, where gravity arises from gradients in the combined energetic potential $(m+R)$ and the flow of time emerges from the ratio $(v/R)$.
 
 ---
 
 ## 📚 TEEM Series — Document Overview
 
-```
+```text
 /doc/
-  ├── TEEM_2.0.pdf
-  ├── TEEM_CMB.pdf
-  ├── TEEM_DM.pdf
-  ├── TEEM_BH.pdf
-  └── TEEM_FLT.pdf
+  ├── TEEM3.0.pdf
+  ├── TEEM_Cosmic_Tension_Landscape.pdf
+  ├── TEEM_CMB2.0.pdf
+  ├── TEEM_DM2.0.pdf
+  ├── TEEM_BH2.0.pdf
+  └── TEEM_FLT2.0.pdf
 ```
 
 ---
 
 ## 🧩 TEEM Series (Primary Papers)
 
-### **1. TEEM 2.0 — Cosmology**
-**[PDF](doc/TEEM_2.0.pdf)**  
-A one‑parameter cosmology where spatial tension replaces dark energy and dark matter.  
-Predicts a finite maximum cosmic scale and a future halt of expansion.
+### **1. TEEM 3.0 — Unified Energy-Based Physics of the Universe**
+**[PDF](doc/TEEM3.0.pdf)** Presents the unified energetic framework that replaces geometric foundations of modern cosmology. Derives an analytic Hubble law, eliminates dark matter/energy, and introduces the Cosmic Tension Landscape to resolve major cosmological tensions.
 
----
+### **2. TEEM Cosmic Tension Landscape — Unified Constraints**
+**[PDF](doc/TEEM_Cosmic_Tension_Landscape.pdf)** A joint analysis of Type Ia Supernovae, BAO, and global measurements of the Hubble constant under the TEEM framework. Reconstructs $R(z)$ to provide a unified explanation for the $H_0$ tension and BAO anomalies.
 
-### **2. TEEM‑CMB — Early Universe**
-**[PDF](doc/TEEM_CMB.pdf)**  
-Residual R/m structures from the partial reset generate primordial fluctuations,  
-acoustic peaks, and early galaxy formation without inflation.
+### **3. TEEM-CMB 2.0 — Early Universe & CMB Anisotropies**
+**[PDF](doc/TEEM_CMB2.0.pdf)** Shows that CMB anisotropies arise not only from photon temperature fluctuations but also from the tension field ($\delta R$). Explains the suppression of odd peaks, enhanced even peaks, and large-scale anisotropies via primordial tension fluctuations.
 
----
+### **4. TEEM-DM 2.0 — Energetic Galactic Dynamics**
+**[PDF](doc/TEEM_DM2.0.pdf)** Galactic rotation curves arise from **R-gradients**, not dark matter halos. Explains cored inner regions, transition shoulders, flat outer velocities, and MOND-like behavior as a slow-time regime ($v/R \ll 1$).
 
-### **3. TEEM‑DM — Galactic Dynamics**
-**[PDF](doc/TEEM_DM.pdf)**  
-Galactic rotation curves arise from **R‑gradients**, not dark matter halos.  
-Explains LSB galaxies, dwarfs, and MOND‑like behavior.
+### **5. TEEM-BH 2.0 — Energetic Black Hole Physics**
+**[PDF](doc/TEEM_BH2.0.pdf)** Black hole horizons correspond to an R-critical surface where $v/R \rightarrow 0$. Replaces the classical singularity with a finite-tension core. Explains entropy via boundary tension modes and demonstrates how information is preserved through R-reconfiguration.
 
----
-
-### **4. TEEM‑BH — Black Holes**
-**[PDF](doc/TEEM_BH.pdf)**  
-Black holes are **R‑saturation engines**, not singularities.  
-Information is preserved through R‑reconfiguration.
-
----
-
-### **5. TEEM‑FLT — Foundations: Observation, Light, and Time**
-**[PDF](doc/TEEM_FLT.pdf)**  
-The microphysical basis of TEEM:
-
-- observation = vibrational energy injection  
-- light = v↔R conversion process  
-- time = v/R  
-- static states are physically unobservable  
-- R‑field engineering as a future technology
-
-This paper unifies quantum measurement, optics, relativity, and thermodynamics  
-under a single energetic principle.
+### **6. TEEM-FLT 2.0 — Foundations of Everyday Physics**
+**[PDF](doc/TEEM_FLT2.0.pdf)** The microphysical basis of TEEM, explaining optical propagation, material behavior, and measurement limits:
+- observation = injects vibrational energy, distorts the R-field
+- light = oscillatory conversion between $v$ and $R$
+- material parameters = R-softness and R-stiffness
+Establishes a direct continuity between atomic physics and cosmology.
 
 ---
 
 ## 🗂 Archived Documents (Historical)
 
-These remain for reference but are superseded by the TEEM Series and no longer represent the latest formulation:
+These remain for historical reference but are superseded by the TEEM 3.0/2.0 Series and no longer represent the latest formulation:
 
-- **TEEM_Main_Paper.pdf**  
-- **TEEM_Supplementary_Notes.pdf**
+- *TEEM 2.0.pdf*
+- *TEEM_CMB.pdf*
+- *TEEM_DM.pdf*
+- *TEEM_BH.pdf*
+- *TEEM_FLT.pdf*
+- *TEEM_Main_Paper.pdf*
+- *TEEM_Supplementary_Notes.pdf*
+
+*(Note: These files have been removed from the main `/doc/` directory to prevent confusion.)*
 
 ---
 
@@ -137,7 +122,7 @@ We welcome open discussion, rigorous debate, and verification.
 
 ## 📄 License
 
-This work is dedicated to the public domain under **CC0‑1.0**.  
+This work is dedicated to the public domain under **CC0-1.0**.  
 Attribution to *NS (2026 May)* is appreciated but not required.
 
 ---
