@@ -64,7 +64,7 @@ with a single energetic mechanism, where gravity arises from gradients in the co
   ├── TEEM_CMB2.0.pdf
   ├── TEEM_DM2.0.pdf
   ├── TEEM_BH2.0.pdf
-  └── TEEM_FLT2.0.pdf
+  └── TEEM_Matter.pdf
 ```
 
 ---
@@ -86,8 +86,8 @@ with a single energetic mechanism, where gravity arises from gradients in the co
 ### **5. TEEM-BH 2.0 — Energetic Black Hole Physics**
 **[PDF](doc/TEEM_BH2.0.pdf)** Black hole horizons correspond to an R-critical surface where $v/R \rightarrow 0$. Replaces the classical singularity with a finite-tension core. Explains entropy via boundary tension modes and demonstrates how information is preserved through R-reconfiguration.
 
-### **6. TEEM-FLT 2.0 — Foundations of Everyday Physics**
-**[PDF](doc/TEEM_FLT2.0.pdf)** The microphysical basis of TEEM, explaining optical propagation, material behavior, and measurement limits:
+### **6. TEEM-Matter — Foundations of Everyday Physics**
+**[PDF](doc/TEEM_Matter.pdf)** The microphysical basis of TEEM, explaining optical propagation, material behavior, and measurement limits:
 - observation = injects vibrational energy, distorts the R-field
 - light = oscillatory conversion between $v$ and $R$
 - material parameters = R-softness and R-stiffness
